@@ -1,4 +1,4 @@
-# Programa: Verificar si un numero es primo o no. Utilizaremos python como lenguaje de tipado "estatico".
+# Ejercicio: Verificar si un numero es primo o no. Utilizaremos python como lenguaje de tipado "estatico".
 n = int(input("-> Bienvenido \n -> Digite un numero: "))
 
 # Funcion: 

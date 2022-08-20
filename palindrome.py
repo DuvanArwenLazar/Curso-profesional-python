@@ -1,4 +1,4 @@
-# Programa: Verificar si una cadena de caracteres es palindroma o no.
+# Explicacion: Verificar si una cadena de caracteres es palindroma o no.
 
 # Funcion que hace la verificacion.
 def palindrome(cadena: str) -> bool:
